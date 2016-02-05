@@ -6,6 +6,10 @@ Hackathon Starter [![Dependency Status](https://david-dm.org/sahat/hackathon-sta
 
 **Live Demo**: http://hackathonstarter.herokuapp.com
 
+<a href="https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 Jump to [What's new in 3.4.0?](#changelog)
 
 A boilerplate for **Node.js** web applications.
