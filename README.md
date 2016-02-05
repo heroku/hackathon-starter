@@ -6,7 +6,7 @@ Hackathon Starter [![Dependency Status](https://david-dm.org/sahat/hackathon-sta
 
 **Live Demo**: http://hackathonstarter.herokuapp.com
 
-<a href="https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample">
+<a href="https://heroku.com/deploy?template=https://github.com/heroku/hackathon-starter">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
