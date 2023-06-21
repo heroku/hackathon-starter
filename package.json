@@ -39,7 +39,7 @@
     "morgan": "^1.6.1",
     "node-foursquare": "^0.3.0",
     "node-linkedin": "^0.5.3",
-    "node-sass-middleware": "^0.9.7",
+    "node-sass-middleware": "^1.0.0",
     "nodemailer": "^2.1.0",
     "passport": "0.3.2",
     "passport-facebook": "^2.0.0",
@@ -56,7 +56,7 @@
     "serve-favicon": "^2.3.0",
     "stripe": "^4.3.0",
     "tumblr.js": "^0.0.7",
-    "twilio": "^3.3.0-edge",
+    "twilio": "^4.0.0",
     "twit": "^2.2.1",
     "validator": "^4.5.2",
     "yui": "^3.18.1"
