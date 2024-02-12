@@ -12,7 +12,7 @@
   "dependencies": {
     "async": "^1.5.2",
     "bcrypt-nodejs": "^0.0.3",
-    "bitgo": "0.11.64",
+    "bitgo": "14.2.0",
     "body-parser": "^1.14.2",
     "cheerio": "^0.20.0",
     "clockwork": "^0.1.0",
@@ -40,7 +40,7 @@
     "node-foursquare": "^0.3.0",
     "node-linkedin": "^0.5.3",
     "node-sass-middleware": "^0.9.7",
-    "nodemailer": "^2.1.0",
+    "nodemailer": "^4.0.1",
     "passport": "0.3.2",
     "passport-facebook": "^2.0.0",
     "passport-github": "^1.0.0",
