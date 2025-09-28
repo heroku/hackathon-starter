@@ -55,7 +55,7 @@
     "request": "^2.69.0",
     "serve-favicon": "^2.3.0",
     "stripe": "^4.3.0",
-    "tumblr.js": "^0.0.7",
+    "tumblr.js": "^4.0.0",
     "twilio": "^3.3.0-edge",
     "twit": "^2.2.1",
     "validator": "^4.5.2",
